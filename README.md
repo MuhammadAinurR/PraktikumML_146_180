@@ -6,6 +6,7 @@ Repository Tugas Besar & Praktikum Machine Learning
 * 201810370311180 Muhamad Rizky
 
 # Multi Fruit Classification
+Fruits naturally have different colors and shapes. Humans can identify the types of fruit just by looking at the shape and color of the fruit without difficulty. Classification is the process of grouping an object based on the characteristics of differences and similarities
 
 # Fruit-360 Dataset
 The total number of images: 90483.
