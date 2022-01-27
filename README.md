@@ -12,7 +12,7 @@ Fruits naturally have different colors and shapes. Humans can identify the types
 The total number of images: 90483.
 Training set size: 67692 images (one fruit or vegetable per image). Test set size: 22688 images (one fruit or vegetable per image). The number of classes: 131 (fruits and vegetables). Image size: 100x100 pixels.
 
-Fruits and vegetables were planted in the shaft of a low-speed motor (3 rpm) and a short movie of 20 seconds was recorded. A Logitech C920 camera was used for filming the fruits.
+Fruits and vegetables were planted in the shaft of a low-speed motor (3 rpm) and a short movie of 20 seconds was recorded. A Logitech C920 camera was used for filming the fruits. Dataset were filmed for 2 years from 2017-02-25 until 2019-09-22 
 
 ![Classification Flow](https://user-images.githubusercontent.com/64482083/151379668-8e2bf122-e9c4-4922-add4-aa2f133467ee.jpg)
 
