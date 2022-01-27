@@ -1,3 +1,5 @@
+> Deployed Link : https://muhammadainurr.github.io/PraktikumML_146_180/ (tunggu 5-10menit untuk load model)
+
 # Tugas Besar Machine Learning
 Repository Tugas Besar & Praktikum Machine Learning
 
