@@ -27,4 +27,8 @@ Fruits and vegetables were planted in the shaft of a low-speed motor (3 rpm) and
 
 ![Model Comparrasion Flow](https://user-images.githubusercontent.com/64482083/151381227-b427dcb4-4dd8-439a-9a24-a145c07bef52.jpg)
 
+# Model Accuracy Comparasion
+![화면 캡처 2022-01-27 220900](https://user-images.githubusercontent.com/64482083/151386405-cc2ebd65-2c6b-4874-92c2-a7da6a8d5f54.jpg)
+
+
 
